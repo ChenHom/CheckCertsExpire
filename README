@@ -1,2 +1,3 @@
 # Check Certificate Expire
 
+透過 https 的 TLSSocket 取得憑證資訊後計算出剩餘天數
